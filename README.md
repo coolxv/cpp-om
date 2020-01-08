@@ -21,6 +21,6 @@
    </tr>
       <tr>
       <td>ORM</td>
-      <td colspan="3"> Qxorm、ODB、sqlpp11、liteSQL </td>
+      <td colspan="3"> Qxorm、ODB、sqlpp11、liteSQL、tiny-orm、yb-orm </td>
    </tr>
 </table>
