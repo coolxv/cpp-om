@@ -17,7 +17,7 @@
    </tr>
    <tr>
       <td>Adapt</td>
-      <td colspan="3"> SQLAPI++、SOCI、ODBC </td>
+      <td colspan="3"> SOCI、ODBC、SQLAPI++(trial version) </td>
    </tr>
       <tr>
       <td>ORM</td>
