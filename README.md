@@ -1,6 +1,8 @@
 # cpp-orm
- cpp-orm is an object-relational mapper for C++
-# Reference
+ cpp-orm is an object-relational mapper for C++.
+ 
+ class(struct)   <--->   DB,JSON,MessagePack ...
+# database reference
 
 <table>
    <tr>
@@ -22,5 +24,35 @@
       <tr>
       <td>ORM</td>
       <td colspan="3"> ORM-Lite、Qxorm、ODB、sqlpp11、liteSQL、tiny-orm、yb-orm、bun </td>
+   </tr>
+</table>
+
+
+# other reference
+BSON, CBOR, MessagePack, and UBJSON
+<table>
+   <tr>
+      <td>JSON</td>
+      <td>BSON</td>
+      <td>CBOR</td>
+      <td>UBJSON</td>
+      <td>XML</td>
+      <td>YAML</td>
+      <td>CSV</td>
+      <td>MessagePack</td>
+      <td>Protocol Buffers</td>
+      <td>Other ...</td>
+   </tr>
+   <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
    </tr>
 </table>
