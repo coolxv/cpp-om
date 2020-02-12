@@ -29,7 +29,7 @@
 
 
 # other reference
-BSON, CBOR, MessagePack, and UBJSON
+
 <table>
    <tr>
       <td>JSON</td>
