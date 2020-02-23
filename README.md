@@ -51,6 +51,7 @@ om:object mapper
       <td>Avro</td>
       <td>Thrift</td>
       <td>SBE</td>
+      <td>ASN.1</td>
    </tr>
    <tr>
       <td>Supported</td>
@@ -63,6 +64,7 @@ om:object mapper
       <td>...</td>
       <td>...</td>
       <td>Supported</td>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
