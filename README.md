@@ -34,20 +34,32 @@
    <tr>
       <td>JSON</td>
       <td>BSON</td>
-      <td>CBOR</td>
       <td>UBJSON</td>
       <td>XML</td>
       <td>YAML</td>
       <td>CSV</td>
+      <td>CBOR</td>
+      <td>RION</td>
+      <td>ION</td>    
       <td>MessagePack</td>
       <td>Protocol Buffers</td>
-      <td>Other ...</td>
+      <td>Cap'n Proto</td>
+      <td>FlexBuffers(FlatBuffers) </td>
+      <td>DIMBIN</td>
+      <td>Avro</td>
+      <td>Thrift</td>
    </tr>
    <tr>
+      <td>Supported</td>
+      <td>...</td>
+      <td>...</td>
+      <td>Supported</td>
+      <td>...</td>
+      <td>Supported</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
-      <td>...</td>
+      <td>Supported</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
@@ -56,3 +68,6 @@
       <td>...</td>
    </tr>
 </table>
+
+- RION: Raw Internet Object Notation
+- ION: Amazon's ION
