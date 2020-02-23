@@ -1,8 +1,10 @@
-# cpp-orm
- cpp-orm is an object-relational mapper for C++.
+# cpp-om
+ cpp-om is an object mapper for C++.
  
- class(struct)   <--->   DB,JSON,MessagePack ...
+ struct   <--->   DB,JSON,MessagePack ...
 # database reference
+
+orm:object-relational mapper
 
 <table>
    <tr>
@@ -29,7 +31,7 @@
 
 
 # other reference
-
+om:object mapper
 <table>
    <tr>
       <td>JSON</td>
@@ -48,6 +50,7 @@
       <td>DIMBIN</td>
       <td>Avro</td>
       <td>Thrift</td>
+      <td>SBE</td>
    </tr>
    <tr>
       <td>Supported</td>
@@ -60,6 +63,7 @@
       <td>...</td>
       <td>...</td>
       <td>Supported</td>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
