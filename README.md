@@ -33,7 +33,7 @@ orm:object-relational mapper
 # other reference
 om:object mapper
 
-odm:Object-Document mapper
+odm:object-document mapper
 
 <table>
    <tr>
