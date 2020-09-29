@@ -32,6 +32,9 @@ orm:object-relational mapper
 
 # other reference
 om:object mapper
+
+odm:Object-Document mapper
+
 <table>
    <tr>
       <td>JSON</td>
